@@ -1,4 +1,3 @@
-#SI 601 Data Manipulation
 ###MapReduce Spark Exercise
 
 For this assignment, our professor gave us skeleton code that required us to fill in the blanks regarding MapReduce and Spark. I inserted comments to the pieces of code that were produced by myself.
