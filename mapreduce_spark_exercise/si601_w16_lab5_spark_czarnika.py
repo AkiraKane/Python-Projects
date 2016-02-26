@@ -13,7 +13,7 @@ spark-submit --master yarn-client --queue si601w16 --num-executors 2 --executor-
 
 import sys, re
 from pyspark import SparkContext
-
+#My Code I produced
 if len(sys.argv) < 3:
     print "need to provide input and output dir"
 else:
