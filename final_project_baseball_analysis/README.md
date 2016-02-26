@@ -2,4 +2,6 @@
 ###Final Project Abstract
 
 
+The biggest goal of this project was to merge two datasets and construct a large dataset containing data for every major league batter that qualified for over 100 “Plate Appearances”. For context, a “Plate Appearance” is defined as an instance that a batter has been given the chance to bat during an official major league game. Regardless of outcome, Homerun, Strikeout, etc., the batter is credited with a Plate Appearance which becomes important when calculating stats like Batting Average or On-Base Percentage.
 
+	My hope was that by creating this merged dataset I can find correlations between the statistics provided by the differing sites, Baseball-Reference \amp& Fangraphs. One of the more popular sabermetric statistics is the “WAR” statistic, also known as Wins-Above Replacement. In recent years, this statistic has become a staple for fans to evaluate players for their contributions batting, pitching, and playing defense, in an effort to find a more unanimous way to judge a player by more than his Batting Average. I hope that my joined dataset can show how stats from both data sources attribute to this statistic WAR. My goal, however, is not to prove WAR’s significance in accurately evaluating players, but rather research whether a collection of generic and sabermetric stats can show correlation to a popular ranking stat.
