@@ -1,4 +1,3 @@
-#SI 601 Data Manipulation
 ###Regular Expression Exercise
 
 For this assignment, our professor asked us to take an 'access log' and extract the ip addresses from the provided file, access_log.txt. 
